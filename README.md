@@ -18,3 +18,7 @@ A code book that describes the variables, the data, and transformations used to 
 ## tidy_average.csv
 
 A csv file containing the final tidied data set.
+
+## tidy_average.txt
+
+A txt file containing the final tidied data set.
