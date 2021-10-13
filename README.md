@@ -1,4 +1,4 @@
-## Getting and Cleaning Data Week 4 Assignment (Cousera)
+## Getting and Cleaning Data Week 4 Assignment (Coursera)
 
 This repository contains the following files:
 
